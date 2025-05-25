@@ -103,4 +103,10 @@ namespace MiProyecto
             Salir();
         }
     }
+vo");
+            WriteLine($"El resultado es: {producto}");
+
+            Salir();
+        }
+    }
 }
